@@ -1,1 +1,1 @@
-This is first Git Sample file
+This is first Git Sample file.
